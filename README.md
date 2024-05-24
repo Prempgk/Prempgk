@@ -100,9 +100,9 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Prempgk?cardType=level&theme=highcontrast&preferLogin=false)](https://git.io/awesome-stats-card)
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Prempgk?cardType=level&theme=highcontrast&preferLogin=false)
 <br><br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Prempgk&theme=python-dark&mode=weekly)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Prempgk&theme=python-dark&mode=weekly)
 
 </div>
 
@@ -112,5 +112,5 @@
 
 <h3 align="left">Activity:</h3>
 
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Prempgk&bg_color=0d1117&color=5aafd3&line=577bc1&point=95bae9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Prempgk&bg_color=0d1117&color=5aafd3&line=577bc1&point=95bae9&area=true&hide_border=true)
 <br><br>
